@@ -1,0 +1,30 @@
+@media (max-width: 1200px) {
+
+}
+@media (max-width: 1024px) {
+    .headd-content {
+        display: none;
+    }
+
+}
+@media (max-width: 768px)  {
+    .head-content {
+        display: none;
+    }
+    .headd-content {
+        display: none;
+    }
+    .header-content a {
+        display: none;
+    }
+    .burger-menu {
+        display: block;
+    }
+
+}
+@media (max-width: 481px) {
+
+}
+@media (max-width: 320px) {
+
+}
